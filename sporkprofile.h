@@ -2,9 +2,9 @@
 
 /*
 * File: sporkprofile.h
-* Author:
-* NetID:
-* Date:
+* Author: Joshua Reck
+* NetID: reckj2
+* Date: 9/14/2018
 *
 * Description: Definition of SporkProfile for storing profile data for a restauarant/business
 *              declaration of functions for reading, processing, and writing Spork profiles.
