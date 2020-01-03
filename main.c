@@ -49,7 +49,7 @@ int main(int argc, char *argv[]) {
 	}
 	
 
-	// FIXME: Convert command line arguments for user's x and y location, maximum distance, and
+	// Convert command line arguments for user's x and y location, maximum distance, and
 	// minimum rating to variables userLocX, userLocY, maxDist, and minRating.
 	userLocX = atof(argv[3]);
 	userLocY = atof(argv[4]);
