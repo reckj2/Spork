@@ -4,7 +4,7 @@
 * File: sporkprofile.c
 * Author: Joshua Reck
 * NetID: reckj2
-* Date:
+* Date: 9/14/2018
 *
 * Description: Function definitions for reading, processing, and writing Spork profiles.
 *
